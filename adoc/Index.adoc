@@ -7,7 +7,7 @@ Modelio Modeler
 Modelio Modeler interface
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* *link:Modeler-_modeler_interface_main_window.html[Main window]*
+* *link:Modeler-_modeler_interface_main_window.adoc[Main window]*
 * *link:Modeler-_modeler_interface_workspace_view.html[Workspace view]*
 * *link:Modeler-_modeler_interface_uml_view.html[Model view]*
 * *link:Modeler-_modeler_interface_properties_view.html[Properties view]*
