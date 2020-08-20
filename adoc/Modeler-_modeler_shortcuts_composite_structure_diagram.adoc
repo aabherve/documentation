@@ -1,0 +1,24 @@
+[[Creation-shortcuts-in-Composite-structure-diagrams]]
+
+[[creation-shortcuts-in-composite-structure-diagrams]]
+Creation shortcuts in Composite structure diagrams
+--------------------------------------------------
+
+Two kind of shortcuts are available:
+
+* to activate a creation tool as if clicking on the diagram palette.
+* to directly create and unmask an element in the diagram.
+
+[cols=",,,",options="header",]
+|===================================================
+2+<|Activate creation tool 2+<|Create element
+|Shortcut |Activated tool |Shortcut |Created element
+|I |Instance |CTRL-N CTRL-I |Instance
+|N |Note |CTRL-N CTRL-N |Note
+|A |Attribute link | |
+|L |Link | |
+|R |Related Diagram | |
+|SPACE |Link | |
+|===================================================
+
+

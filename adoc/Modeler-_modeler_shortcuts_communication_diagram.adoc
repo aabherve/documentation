@@ -1,0 +1,23 @@
+[[Creation-shortcuts-in-Communication-diagrams]]
+
+[[creation-shortcuts-in-communication-diagrams]]
+Creation shortcuts in Communication diagrams
+--------------------------------------------
+
+Two kind of shortcuts are available:
+
+* to activate a creation tool as if clicking on the diagram palette.
+* to directly create and unmask an element in the diagram.
+
+[cols=",,,",options="header",]
+|==============================================================
+2+<|Activate creation tool 2+<|Create element
+|Shortcut |Activated tool |Shortcut |Created element
+|C |Communication node |CTRL-N CTRL-C |Communication node
+|M |Communication message |CTRL-N CTRL-M |Communication message
+|N |Note |CTRL-N CTRL-N |Note
+|SPACE |Channel | |
+|R |Related Diagram | |
+|==============================================================
+
+

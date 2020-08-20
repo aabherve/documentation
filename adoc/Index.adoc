@@ -1,0 +1,205 @@
+Modelio Modeler
+---------------
+
+[[Modelio-Modeler-interface]]
+
+[[modelio-modeler-interface]]
+Modelio Modeler interface
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* *link:Modeler-_modeler_interface_main_window.html[Main window]*
+* *link:Modeler-_modeler_interface_workspace_view.html[Workspace view]*
+* *link:Modeler-_modeler_interface_uml_view.html[Model view]*
+* *link:Modeler-_modeler_interface_properties_view.html[Properties view]*
+* *link:Modeler-_modeler_interface_uml_prop_view.html[Element view]*
+* *link:Modeler-_modeler_interface_annot_view.html[Notes and Constraints view]*
+* *link:Modeler-_modeler_interface_diagrams_view.html[Diagrams view]*
+* *link:Modeler-_modeler_interface_edition_view.html[Diagram Edition view]*
+* *link:Modeler-_modeler_interface_symbol_view.html[Symbol view]*
+* *link:Modeler-_modeler_interface_outline_view.html[Outline view]*
+* *link:Modeler-_modeler_interface_linkeditor_view.html[Links Editor view]*
+* *link:Modeler-_modeler_interface_audit_view.html[Audit view]*
+* *link:Modeler-_modeler_interface_script_view.html[Script view]*
+
+[[Managing-your-Modelio-projects]]
+
+[[managing-your-modelio-projects]]
+Managing your Modelio projects
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* *link:Modeler-_modeler_managing_projects_migration.html[Migrating earlier Modelio projects]*
+* *link:Modeler-_modeler_managing_projects_create_project.html[Creating a project]*
+* *link:Modeler-_modeler_managing_projects_configuring_project_informations.html[Configuring project information]*
+* *link:Modeler-_modeler_managing_projects_configuring_project_work_models.html[Configuring project work models]*
+* *link:Modeler-_modeler_managing_projects_configuring_project_libraries.html[Configuring project libraries]*
+* *link:Modeler-_modeler_managing_projects_configuring_project_modules.html[Configuring project modules]*
+* *link:Modeler-_modeler_managing_projects_configuring_project_audit.html[Configuring project audit]*
+* *link:Modeler-_modeler_managing_projects_configuring_project_URL.html[Configuring project URLs]*
+* *link:Modeler-_modeler_managing_projects_subprojects.html[Projects, work models and sub-projects]*
+
+[[Building-your-models]]
+
+[[building-your-models]]
+Building your models
+~~~~~~~~~~~~~~~~~~~~
+
+* *link:Modeler-_modeler_building_models_creating_elements.html[Creating elements]*
+** *link:Modeler-_modeler_creating_elements_in_diagrams.html[Creating elements in diagrams]*
+*** *link:Modeler-_modeler_building_models_creating_elements_diagpalette.html[Creating node-type elements]*
+*** *link:Modeler-_modeler_building_models_creating_links_diagrams.html[Creating link-type elements]*
+*** *link:Modeler-_modeler_building_models_creating_elements_dragdrop.html[Unmasking elements using the drag and drop]*
+** *link:Modeler-_modeler_building_models_creating_elements_cmcommand.html[Creating elements in the model browser]*
+** *link:Modeler-_modeler_building_models_creating_links_linkeditor.html[Creating links in the links editor]*
+* *link:Modeler-_modeler_building_models_modifying_element_props.html[Modifying element properties]*
+* *link:Modeler-_modeler_building_models_annotating_elements.html[Annotating elements]*
+** *link:Modeler-_modeler_building_models_add_stereotypes.html[Adding stereotypes to elements]*
+** *link:Modeler-_modeler_building_models_add_notes.html[Adding notes/constraints to elements]*
+** *link:Modeler-_modeler_building_models_add_richnotes.html[Adding rich notes to elements]*
+** *link:Modeler-_modeler_building_models_add_tv.html[Adding tagged values to elements]*
+* *link:Modeler-_modeler_building_models_editing_elements.html[Editing elements using edition boxes]*
+* *link:Modeler-_modeler_building_models_shortcuts.html[Using shortcuts]*
+
+[[Modelio-diagrams]]
+
+[[modelio-diagrams]]
+Modelio diagrams
+~~~~~~~~~~~~~~~~
+
+* *link:Modeler-_modeler_diagrams_creating_diagram.html[Creating a diagram]*
+* *link:Modeler-_modeler_diagrams_opening_diagram.html[Opening a diagram]*
+* *link:Modeler-_modeler_diagrams_creating_elements.html[Creating elements in a diagram]*
+* *link:Modeler-_modeler_diagrams_handling_elements.html[Handling diagram elements]*
+* *link:Modeler-_modeler_diagrams_drawing_links.html[Drawing links in a diagram]*
+* *link:Modeler-_modeler_diagrams_handling_links.html[Handling links]*
+* *link:Modeler-_modeler_diagrams_showing_masking_elements.html[Showing and masking elements in a diagram]*
+* *link:Modeler-_modeler_diagrams_free_drawing.html[Free drawing]*
+* *link:Modeler-_modeler_diagrams_changing_element_size.html[Changing an element size in a diagram]*
+* *link:Modeler-_modeler_diagrams_graphic_options.html[Setting graphic options in diagrams]*
+* *link:Modeler-_modeler_diagrams_cloning.html[Cloning graphic options]*
+* *link:Modeler-_modeler_diagrams_grab.html[Using the grab function]*
+* *link:Modeler-_modeler_diagrams_zoom.html[Using the zoom function]*
+* *link:Modeler-_modeler_diagrams_grid.html[Activating the grid]*
+* *link:Modeler-_modeler_diagrams_aligning.html[Aligning elements]*
+* *link:Modeler-_modeler_diagrams_copying.html[Copying a diagram as an image]*
+* *link:Modeler-_modeler_diagrams_saving_diagram_in_file.html[Saving a diagram in a file]*
+
+[[ImportExport]]
+
+[[importexport]]
+Import/Export
+~~~~~~~~~~~~~
+
+* *link:Modeler-_modeler_managing_projects_importing_elements.html[Import from Modelio projects]*
+* *link:Xmi_intro.html[Import/export XMI]*
+** *link:Xmi_gloss.html[Glossary]*
+** *link:Xmi_importing.html[Importing a model in XMI format]*
+** *link:Xmi_exporting.html[Exporting a model in XMI format]*
+** *link:Xmi_importing_profile.html[Importing a profile in XMI format]*
+** *link:Xmi_exporting_profile.html[Exporting a profile in XMI format]*
+** *link:Xmi_config.html[Modelio XMI Import/Export options]*
+** *link:Xmi_coverage.html[Coverage of UML2]*
+
+[[Modelio-settings]]
+
+[[modelio-settings]]
+Modelio settings
+~~~~~~~~~~~~~~~~
+
+* *link:Modeler-_modeler_modelio_settings_modules_catalog.html[Modules catalog]*
+* *link:Modeler-_modeler_modelio_settings_macros_catalog.html[Macros catalog]*
+* *link:Modeler-_modeler_modelio_settings_preferences.html[Preferences]*
+* *link:Modeler-_modeler_modelio_settings_diagram_styles.html[Diagrams styles]*
+
+[[Local-libraries]]
+
+[[local-libraries]]
+Local libraries
+~~~~~~~~~~~~~~~
+
+* *link:Model_components_presentation.html[Introducing model components]*
+* *link:Model_components_lifecycle.html[Life-cycle of a model component]*
+* *link:Model_components_development.html[Developing and packaging model components]*
+* *link:Model_components_deployment.html[Deploying model components]*
+
+[[Remote-libraries]]
+
+[[remote-libraries]]
+Remote libraries
+~~~~~~~~~~~~~~~~
+
+* *link:Distant_libraries_presentation.html[Introducing remote libraries]*
+* *link:Distant_libraries_lifecycle.html[Creating and publishing a remote library]*
+
+[[MDA-services]]
+
+[[mda-services]]
+MDA services
+~~~~~~~~~~~~
+
+* *link:Modeler-_modeler_mda_services_mda_modeling.html[MDA modeling in Modelio Modeler]*
+* *link:Modeler-_modeler_mda_services_basic.html[Basic level – Creating a stereotype]*
+* *link:Modeler-_modeler_mda_services_advanced.html[Advanced level – Working in the MDA model]*
+
+[[Handy-tools]]
+
+[[handy-tools]]
+Handy tools
+~~~~~~~~~~~
+
+* *link:Modeler-_modeler_handy_tools_advanced_search.html[Modelio search tool]*
+* *link:Modeler-_modeler_handy_tools_model_audit.html[Model audit]*
+* *link:Modeler-_modeler_handy_tools_automatic_diagrams.html[Automatic diagrams]*
+* *link:Modeler-_modeler_handy_tools_modeling_wizard_patterns.html[Modeling assistant]*
+* *link:Modeler-_modeler_handy_tools_scripts_macros.html[Scripts]*
+* *link:Modeler-_modeler_handy_tools_command_line_options.html[Command line options]*
+* *link:Modeler-_modeler_maven_plugin.html[Modelio Maven plugin]*
+* *link:Modeler-_modeler_patterns.html[Model patterns]*
+
+[[Appendix-1-Unmasking-shortcuts-in-diagrams]]
+
+[[appendix-1-unmasking-shortcuts-in-diagrams]]
+Appendix 1 Unmasking shortcuts in diagrams
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* *link:Modeler-_modeler_shortcuts_actors.html[Unmasking shortcuts on actors]*
+* *link:Modeler-_modeler_shortcuts_artifacts.html[Unmasking shortcuts on artifacts]*
+* *link:Modeler-_modeler_shortcuts_attributes.html[Unmasking shortcuts on attributes]*
+* *link:Modeler-_modeler_shortcuts_bindable_instances.html[Unmasking shortcuts on parts]*
+* *link:Modeler-_modeler_shortcuts_bindings.html[Unmasking shortcuts on bindings]*
+* *link:Modeler-_modeler_shortcuts_classes.html[Unmasking shortcuts on classes]*
+* *link:Modeler-_modeler_shortcuts_collaborations.html[Unmasking shortcuts on collaborations]*
+* *link:Modeler-_modeler_shortcuts_collaboration_uses.html[Unmasking shortcuts on collaboration uses]*
+* *link:Modeler-_modeler_shortcuts_components.html[Unmasking shortcuts on components]*
+* *link:Modeler-_modeler_shortcuts_dataflows.html[Unmasking shortcuts on information flows]*
+* *link:Modeler-_modeler_shortcuts_datatypes.html[Unmasking shortcuts on datatypes]*
+* *link:Modeler-_modeler_shortcuts_enumerations.html[Unmasking shortcuts on enumerations]*
+* *link:Modeler-_modeler_shortcuts_instances.html[Unmasking shortcuts on instances]*
+* *link:Modeler-_modeler_shortcuts_interfaces.html[Unmasking shortcuts on interfaces]*
+* *link:Modeler-_modeler_shortcuts_nodes.html[Unmasking shortcuts on nodes]*
+* *link:Modeler-_modeler_shortcuts_operations.html[Unmasking shortcuts on operations]*
+* *link:Modeler-_modeler_shortcuts_packages.html[Unmasking shortcuts on packages]*
+* *link:Modeler-_modeler_shortcuts_ports.html[Unmasking shortcuts on ports]*
+* *link:Modeler-_modeler_shortcuts_signals.html[Unmasking shortcuts on signals]*
+
+[[Appendix-2-Creation-shortcuts-in-diagrams]]
+
+[[appendix-2-creation-shortcuts-in-diagrams]]
+Appendix 2 Creation shortcuts in diagrams
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* *link:Modeler-_modeler_shortcuts_activity_diagram.html[Creation shortcuts in Activity diagrams]*
+* *link:Modeler-_modeler_shortcuts_class_diagram.html[Creation shortcuts in Class diagrams]*
+* *link:Modeler-_modeler_shortcuts_communication_diagram.html[Creation shortcuts in Communication diagrams]*
+* *link:Modeler-_modeler_shortcuts_composite_structure_diagram.html[Creation shortcuts in Composite Structure diagrams]*
+* *link:Modeler-_modeler_shortcuts_deployment_diagram.html[Creation shortcuts in Deployment diagrams]*
+* *link:Modeler-_modeler_shortcuts_object_diagram.html[Creation shortcuts in Object diagrams]*
+* *link:Modeler-_modeler_shortcuts_state_diagram.html[Creation shortcuts in State diagrams]*
+* *link:Modeler-_modeler_shortcuts_usecase_diagram.html[Creation shortcuts in Use Case diagrams]*
+
+[[Appendix-3-Diagrams-specificities]]
+
+[[appendix-3-diagrams-specificities]]
+Appendix 3 Diagrams specificities
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* *link:Modeler-_modeler_usecase_diagram_system_boundaries.html[Use Case diagram System Boundaries]*

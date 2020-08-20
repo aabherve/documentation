@@ -1,0 +1,13 @@
+[[MDA-modeling-in-Modelio-Modeler]]
+
+[[mda-modeling-in-modelio-modeler]]
+MDA modeling in Modelio Modeler
+-------------------------------
+
+Modelio provides a complete range of MDA services, split into three categories:
+
+* link:Modeler-_modeler_mda_services_basic.html[Basic stereotype creation directly in the “Model” view].
+* link:Modeler-_modeler_mda_services_advanced.html[Advanced profile and stereotype creation and definition of note types and tagged value types].
+* Expert Modelio module development with Eclipse. This expert mode is presented in a dedicated guide.
+
+

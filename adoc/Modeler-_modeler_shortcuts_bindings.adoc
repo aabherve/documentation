@@ -1,0 +1,17 @@
+[[Shortcuts-on-bindings-in-Modelio-diagrams]]
+
+[[shortcuts-on-bindings-in-modelio-diagrams]]
+Shortcuts on bindings in Modelio diagrams
+-----------------------------------------
+
+The following table presents the keyboard shortcuts that can be used to unmask certain elements associated with or belonging to the binding selected in the diagram.
+
+[cols=",",options="header",]
+|===========================
+|Unmasked element |Shortcuts
+|Constraints |SHIFT + N
+|===========================
+
+Notes | SHIFT + N
+
+

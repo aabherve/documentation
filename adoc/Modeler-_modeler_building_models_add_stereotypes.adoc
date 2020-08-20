@@ -1,0 +1,27 @@
+[[Adding-stereotypes-to-elements]]
+
+[[adding-stereotypes-to-elements]]
+Adding stereotypes to elements
+------------------------------
+
+There are two ways to add stereotypes to elements:
+
+* Using the “Add stereotype(s)…” command from the context menu of the selected element.
+* In the link:Modeler-_modeler_interface_properties_view.html[Properties] or link:Modeler-_modeler_interface_uml_prop_view.html[Element] view on the selected element.
+
+image:images/Modeler-_modeler_building_models_add_stereotypes/modifelements_002.png[2]
+
+[[Adding-a-stereotype-to-a-class-in-the-ldquoElementrdquo-view]]
+
+[[adding-a-stereotype-to-a-class-in-the-element-view]]
+Adding a stereotype to a class in the “Element” view
+
+Steps:
+
+1.  Select the element you want to add a stereotype to.
+2.  In the “Element” view, select the “Extensions” view.
+3.  Click on the “Add stereotype(s)…” button.
+4.  Select the stereotype of your choice from the list.
+5.  Click OK.
+
+

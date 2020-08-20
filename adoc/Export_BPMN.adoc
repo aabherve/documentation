@@ -1,0 +1,35 @@
+Exporting a model in BPMN format
+--------------------------------
+
+[[Introduction]]
+
+[[introduction]]
+Introduction
+++++++++++++
+
+The BPMN Export service is used to generate BPMN files from a BPMN model built in Modelio.
+
+To export a BPMN model :
+
+* Select the BPMN model (image:images/Export_BPMN/bpmnbehavior.png[image]) to export in the project explorer.
+* Use the *Import / Export > Export > Export BPMN* contextual command.
+
+image:images/Export_BPMN/bpmn_export_1.png[image]
+
+image:images/Export_BPMN/bpmn_export_2.png[image]
+
+[[Exporting-a-BPMN-Behavior]]
+
+[[exporting-a-bpmn-behavior]]
+Exporting a BPMN Behavior
+
+*Steps:*
+
+*1*. Select the BPMN Behavior package +
+*2*. Run the *Import/Export > Import > BPMN export* command +
+*3*. Choose a name for the exported file +
+*4*. Click on _Save_ to validate and launch the export process
+
+*Note:* Some BPMN models might need to be normalized before export. Make sure your model is in *read/write* mode before launching the command.
+
+

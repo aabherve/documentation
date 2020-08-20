@@ -1,0 +1,58 @@
+[[generate-modelio-javadoc]]
+
+[[generate-modelio-javadoc]]
+generate-modelio-javadoc
+------------------------
+
+[[Full-name]]
+
+[[full-name]]
+Full name
+~~~~~~~~~
+
+org.modelio:modelio-maven-plugin:3.0.0.00:generate-modelio-javadoc
+
+[[Description]]
+
+[[description]]
+Description
+~~~~~~~~~~~
+
+Generates the Javadoc files for a Modelio project. It executes the “Generate Javadoc” command from http://forge.modelio.org/projects/javadesigner[Java Designer].
+
+[[Required-parameters]]
+
+[[required-parameters]]
+Required parameters
+~~~~~~~~~~~~~~~~~~~
+
+[width="100%",cols="25%,25%,25%,25%",options="header",]
+|==========================================================
+|Name |Type |Since |Description
+|modelioDir |File |2.2.0.01 a|
+Modelio install to use. +
+Example:
+
+....
+<modelioDir>C:\Program Files\modelio 3</modelioDir>
+....
+
+|workspaceDir |File |2.2.0.01 a|
+Workspace to use. +
+Example:
+
+....
+<workspaceDir>C:\Users\XXX\modelio\workspace</workspaceDir>
+....
+
+|projectName |Name |2.2.0.01 a|
+Project to use. +
+Example:
+
+....
+<projectName>JavaProject</projectName>
+....
+
+|==========================================================
+
+

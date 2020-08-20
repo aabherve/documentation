@@ -1,0 +1,16 @@
+[[Introducing-Modelio-BPMN-ImportExport]]
+
+[[introducing-modelio-bpmn-importexport]]
+Introducing Modelio BPMN Import/Export
+--------------------------------------
+
+Modelio supports the interchange of BPMN models and diagrams based on BPMN XML 2.0 format standardized by the http://www.omg.org/spec/BPMN/2.0/[OMG].
+
+Modelio provides Import, Export and Update services of BPMN models :
+
+* *link:Import_BPMN.html[Importing a model in BPMN format]*
+* *link:Export_BPMN.html[Exporting a model in BPMN format]*
+
+To ensure a good compatibility with other BPMN tools, Modelio is a member of the BPMN Model Interchange Working Group. The purpose of the BPMN MIWG initiative is to support, facilitate, promote, and ensure compatibility of interchange of BPMN Models. http://www.omgwiki.org/bpmn-miwg/doku.php[http://www.omgwiki.org/bpmn-miwg/]
+
+

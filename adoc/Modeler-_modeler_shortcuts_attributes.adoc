@@ -1,0 +1,17 @@
+[[Shortcuts-on-attributes-in-Modelio-diagrams]]
+
+[[shortcuts-on-attributes-in-modelio-diagrams]]
+Shortcuts on attributes in Modelio diagrams
+-------------------------------------------
+
+The following table presents the keyboard shortcuts that can be used to unmask certain elements associated with or belonging to the attributes selected in the diagram.
+
+[cols=",",options="header",]
+|===========================
+|Unmasked element |Shortcuts
+|Constraints |SHIFT + N
+|Notes |SHIFT + N
+|Dependencies |SHIFT + D
+|===========================
+
+
